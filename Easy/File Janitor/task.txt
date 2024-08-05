@@ -1,0 +1,16 @@
+Task 1:
+
+Objectives
+
+In this stage, write a Bash script that outputs two lines of text with a description of the script:
+
+    The first line must contain the words File Janitor, which is our script's name, and the year of its creation;
+    The second line must contain the words Powered by Bash to indicate that our script is a Bash script. Do not forget to add the path to the script interpreter at the beginning of the script!
+
+Example
+
+The line starting with $ followed by a space represents the command in the terminal input. Note that it is not a part of the script output.
+
+$ ./file-janitor.sh
+File Janitor, 2022
+Powered by Bash
